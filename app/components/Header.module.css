@@ -1,0 +1,143 @@
+
+.header{
+  background-color: #eeedec;
+  height: 400px;
+  width:100%;
+  
+}
+.navbar{
+    display:flex;
+    justify-content: space-evenly;
+}
+.home{
+       position:relative;
+       left:300px;
+       height:130px;
+       display:flex;
+     
+}
+.home:hover{
+    transform: scale(1.3); 
+}
+.text1{
+    font-size: 50px;
+    color: rgb(249, 74, 74);
+    position:relative;
+    top:15px;
+    right:250px;
+
+}
+.text2{
+    position:relative;
+    font-size: 25px;
+    top:3px;
+    left:80px;
+
+}
+.text3{
+    font-size: 25px;
+    position:relative;
+    top:40px;
+    right:400px;
+}
+.text4{
+    font-size: 25px;
+    position:absolute;
+    right: 1000;
+    top: 50px;
+   
+}
+
+.parashut{
+    height:140px;
+    right:150px;
+    display: flex;
+}
+.parashut:hover{
+    transform: scale(1.3);
+}
+.bell{
+
+    position:relative;
+    right:650px;
+    height:140px;
+    bottom: 10px;
+}
+.bell:hover{
+    transform:scale(1.3);
+}
+.logo{
+    height: 100px;
+    width:100px;
+    margin: 70px;
+    padding:0px;
+    position: relative;
+    bottom:50px;
+}
+
+.myglobe{
+    height:40px;
+    width:40px;
+    right:100px;
+    border-radius:  50%;
+    padding:10px;
+    position:relative;
+    top:20px;
+
+}
+.myglobe:hover{
+    background-color: gray;
+}
+.icon{
+    height:40px;
+    border-radius: 50%;
+    padding:10px;
+    position:relative;
+    bottom:40px;
+
+}
+.icon:hover{
+    background-color: gray;
+}
+.nav img{
+    font-size: 200px;
+}
+
+
+
+ .mybtn{
+  position:relative;
+    right:90px;
+    top:12px;
+    height:60px;
+    width:60px;
+    border-radius: 50%;
+    background-color: rgb(253, 66, 97);
+   
+}
+
+.input{
+    height:80px;
+    width:400px;
+    font-size: 30px;
+    padding-left:30px;
+    border-radius: 30px;
+    border:none;
+    position:relative;
+    
+}
+
+
+.img{
+    height:20px;  
+}
+.productimage{
+    height:50px;
+    width:50px;
+    }
+.searchBar{
+    display: flex;
+    justify-content: center; 
+    position:relative;
+    bottom:80px
+}
